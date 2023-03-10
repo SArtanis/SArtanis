@@ -1,6 +1,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SArtanis&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
+## Greetings!👋
+# About Me
+I'm Shi Mochi (石墨池 in Chinese)
+Majoring in Computer Science at Sichuan University, Chengdu, China
+Bound to obtain a bachelor's degree in summer 2024
+# Prioritized Agenda
+For the upcoming year I'll be reviwing for Postgraduate Entrance Examination
+Lately focusing on calculus and fundamental algorithm
 
 <!--
 **SArtanis/SArtanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
