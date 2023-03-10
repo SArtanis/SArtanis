@@ -3,11 +3,11 @@
 ## Greetings!👋
 # About Me
 I'm Shi Mochi (石墨池 in Chinese)
-Majoring in Computer Science at Sichuan University, Chengdu, China
-Bound to obtain a bachelor's degree in summer 2024
+\nMajoring in Computer Science at Sichuan University, Chengdu, China
+\nBound to obtain a bachelor's degree in summer 2024
 # Prioritized Agenda
 For the upcoming year I'll be reviwing for Postgraduate Entrance Examination
-Lately focusing on calculus and fundamental algorithm
+\nLately focusing on calculus and fundamental algorithm
 
 <!--
 **SArtanis/SArtanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
