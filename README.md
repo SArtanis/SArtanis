@@ -2,11 +2,11 @@
 
 ## Greetings!👋
 # About Me
-I'm Shi Mochi (石墨池 in Chinese)
+I'm Shi Mochi
 <br />Majoring in Computer Science at Sichuan University, Chengdu, China
 <br />Bound to obtain a bachelor's degree in summer 2024
 # Prioritized Agenda
-<br />For the upcoming year I'll be reviwing for Postgraduate Entrance Examination
+For the upcoming year I'll be reviwing for Postgraduate Entrance Examination
 <br />Lately focusing on calculus and fundamental algorithm
 
 <!--
