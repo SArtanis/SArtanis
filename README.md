@@ -4,7 +4,7 @@
 ### About Me
 I'm Shi Mochi
 <br />Majoring in Artificial Intelligence at Wuhan University, Wuhan, China
-<br />Bound to obtain a master's degree in summer 2024
+<br />Bound to obtain a master's degree in summer 2026
 
 <!--
 **SArtanis/SArtanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
